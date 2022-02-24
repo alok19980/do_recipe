@@ -1,6 +1,6 @@
-# do_recipe
+# Do Recipe
 
-A new Flutter project.
+A Recipee Application Made in flutter.
 
 ## Getting Started
 
